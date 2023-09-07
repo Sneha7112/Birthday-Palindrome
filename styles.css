@@ -1,0 +1,25 @@
+#body {
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: rgb(29, 35, 51);
+    color: white;
+    font-size: larger;
+    
+  }
+  
+  main {
+    border: 1px solid white;
+    text-align: center;
+    height: 100%;
+   
+  }
+  
+  
+  #abc{
+    
+    text-align: center;
+    justify-content: center;
+  }
+  
